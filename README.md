@@ -1,2 +1,3 @@
 # training-api
-# Et api til automatisering
+
+Et api til automatisering
